@@ -1,0 +1,3 @@
+﻿
+VS2010 resx files:
+http://msdn.microsoft.com/en-us/library/gg418542.aspx
